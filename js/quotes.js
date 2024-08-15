@@ -1,11 +1,11 @@
 const quotes = [
     {
-        quote: "Insanity is doing the same thing over and over again and expecting different results.",
+        quote: "- Insanity is doing the same thing over and over again and expecting different results. -",
         author: "Albert Einstein",
     },
 
     {
-        quote: "The important thing is not to stop questioning. Curiosity has its own reason for existing.",
+        quote: "- The important thing is not to stop questioning. Curiosity has its own reason for existing. -",
         author: "Albert Einstein",
     }
 ];
