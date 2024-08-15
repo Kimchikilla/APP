@@ -22,11 +22,21 @@
     
 }
 
+#login-form input{
+    text-align: center;
+}
+
 #todo-form{
     text-align: center;
     color: white;
     margin: auto;
+    
 }
+
+#todo-form input{
+    text-align: center;
+}
+
 
 #clock{
     color: white;
